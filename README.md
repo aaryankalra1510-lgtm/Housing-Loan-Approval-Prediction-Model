@@ -72,8 +72,9 @@ files.download('label_encoders.pkl')
 
 ### 1. Clone Repository & Install Dependencies
 
-```bash
+
 git clone [.git](https://github.com/aaryankalra1510-lgtm/Housing-Loan-Approval-Prediction-Model)
+```bash
 cd YOUR_REPOSITORY
 pip install -r requirements.txt
 
